@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project 7 - Wilton Tuji</string>
+    <string name="title">Título</string>
+    <string name="authors">Autor(es)</string>
+    <string name="hint">Palavra-chave</string>
+    <string name="quantity">Quantidade de resultados exibidos:</string>
+    <string name="search">Buscar</string>
+    <string name="nosearchparam">Por favor, insira uma palavra-chave.</string>
+    <string name="no_internet">Sem conexão com a rede.</string>
+    <string name="no_result">Não foram encontrados resultados.</string>
+</resources>
